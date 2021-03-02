@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+}
+
+
+
+.add-empl{
+	width:500px;
+	height:auto;
+   	text-align: center;
+   	padding-top:10px;
+   	padding-bottom: 10px;
+    border: 1px solid red;
+	
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -250px 0 0 -250px;
+}
+
+input{
+	width:200px;
+	padding-top:5px;
+	margin-top: 5px; 
+}
+select{
+	width: 208px;
+	padding-top:5px;
+	margin-top: 5px; 
+}
